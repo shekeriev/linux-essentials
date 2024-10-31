@@ -1,5 +1,5 @@
 # linux-essentials
-Supporting files, used during the **Linux Essentials in a Nutshell** workshop at OpenFest 2022 and 2023
+Supporting files, used during the **Linux Essentials in a Nutshell** workshop at OpenFest 2022, 2023, and 2024
 
 ## Structure and Files 
 
@@ -14,6 +14,9 @@ There is a pair of files for each edition:
 ├── 2023
 │   ├── linux-essentials-in-a-nutshell-labs.html
 │   └── linux-essentials-in-a-nutshell.pdf
+├── 2024
+│   ├── linux-essentials-in-a-nutshell-labs.html
+│   └── linux-essentials-in-a-nutshell.pdf
 └── README.md
 ```
 
@@ -25,6 +28,6 @@ VirtualBox VM templates for AlmaLinux, Debian, and openSUSE, could be downloaded
 
 ### Playground(s)
 
-A small playground (web console + practice questions), avaialble during the event, can be found here: <http://play.zahariev.pro>
+A small playground (web console + practice questions), avaialble during the event, can be found here: <https://play.zahariev.pro>
 
-The code is **LPILEOF2023**
+The code is **LPILEOF2024**
